@@ -1,0 +1,29 @@
+{
+  "name": "ChatSample",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "anymatch": "^1.3.0",
+    "native-base": "^2.13.4",
+    "react": "^16.0.0-beta.5",
+    "react-native": "^0.49.3",
+    "react-native-bridgefy-sdk": "git+https://git@bitbucket.org/bridgefy/react-native-bridgefy-sdk.git",
+    "react-native-camera-roll-picker": "^1.1.9",
+    "react-native-gifted-chat": "^0.2.9",
+    "react-native-lightbox": "^0.6.0",
+    "react-native-nav": "^1.2.0"
+  },
+  "devDependencies": {
+    "babel-jest": "20.0.3",
+    "babel-preset-react-native": "1.9.2",
+    "jest": "20.0.4",
+    "react-test-renderer": "16.0.0-alpha.12"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

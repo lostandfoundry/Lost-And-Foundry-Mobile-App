@@ -1,0 +1,12 @@
+.DS_Store
+android/.gradle/
+android/.idea/
+android/ChatSample.iml
+android/app/app.iml
+android/app/build/
+android/build/
+android/local.properties
+ios/.DS_Store
+node_modules/
+package-lock.json
+.idea/

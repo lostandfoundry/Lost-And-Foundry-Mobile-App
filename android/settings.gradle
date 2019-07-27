@@ -1,0 +1,5 @@
+rootProject.name = 'ChatSample'
+include ':react-native-bridgefy-sdk'
+project(':react-native-bridgefy-sdk').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-bridgefy-sdk/android')
+
+include ':app'
