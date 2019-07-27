@@ -1,7 +1,13 @@
-# Lost-And-FOundry-App
+# Lost-And-Foundry-App
 Lost-And-FOundry-App is a project that makes use of BridgefySDK trough its React Native interface.   
 The project consists in a chat app that send messages to all nearby devices that are running the application too.  
-This project uses [Gifted chat](https://github.com/FaridSafi/react-native-gifted-chat).
+This project was inspired by [Gifted chat](https://github.com/FaridSafi/react-native-gifted-chat).
+
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=exp://expo.io/@xcarpentier/gifted-chat">
+  <br>
+  <a href="https://snack.expo.io/@xcarpentier/gifted-chat" target="_blank"><i>demo</i></a>
+</p>
 
 ## Requirements
 In order to run the app you would need to cover the following requirements:  
