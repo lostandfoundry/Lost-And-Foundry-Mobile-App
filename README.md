@@ -1,9 +1,9 @@
 # Lost-And-Foundry-App
-Lost-And-FOundry-App is a project that makes use of BridgefySDK trough its React Native interface.   
-The project consists in a chat app that send messages to all nearby devices that are running the application too.  
+Lost-And-Foundry-App is a project that makes use of BridgefySDK through its React Native interface.   
+The project consists of a emergency broadcasting app that send messages to all nearby devices that are running the application too.  
 This project was inspired by [Gifted chat](https://github.com/FaridSafi/react-native-gifted-chat).
 
-<div class="Smartphone-s165niw0-0 krsaKg" style="background:#141414"><div class="GifContainer-s1wbubqp-0 fvwRPH"><div class="Play-s10ikt1c-0 dcOaWh"></div><div class="Gif__Sizer-s1j91rz1-0 gpJmvZ"></div><video autoplay="" loop="" playsinline="" preload="none" muted="" poster="https://thumbs.gfycat.com/ThatSlimyBeardedcollie-poster.jpg" style="width:100%;height:100%;position:absolute;top:0;left:0;transform:none"><track kind="captions"><source src="https://giant.gfycat.com/ThatSlimyBeardedcollie.webm" type="video/webm"><source src="https://giant.gfycat.com/ThatSlimyBeardedcollie.mp4" type="video/mp4"></video></div><div class="Button__ButtonContainer-s1yo1pni-0 kZcYqm"><div class="Button-s1yo1pni-1 ewehdc" alt="Show detail"></div></div></div>
+<div class="Smartphone-s165niw0-0 krsaKg" style="background:#141414"><video autoplay="" loop="" playsinline="" preload="none" muted="" poster="https://thumbs.gfycat.com/ThatSlimyBeardedcollie-poster.jpg" style="width:100%;height:100%;position:absolute;top:0;left:0;transform:none"><track kind="captions"><source src="https://giant.gfycat.com/ThatSlimyBeardedcollie.webm" type="video/webm"><source src="https://giant.gfycat.com/ThatSlimyBeardedcollie.mp4" type="video/mp4"></video></div><div class="Button__ButtonContainer-s1yo1pni-0 kZcYqm"><div class="Button-s1yo1pni-1 ewehdc" alt="Show detail"></div></div></div>
 
 <p align="center">
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=exp://expo.io/@xcarpentier/gifted-chat">
