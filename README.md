@@ -1,10 +1,10 @@
-# ChatSample
-ChatSample is a project that makes use of BridgefySDK trough its React Native interface. This repo doesn't contain the interface, but you can find it [here](https://bitbucket.org/bridgefy/react-native-bridgefy-sdk).  
+# Lost-And-FOundry-App
+Lost-And-FOundry-App is a project that makes use of BridgefySDK trough its React Native interface.   
 The project consists in a chat app that send messages to all nearby devices that are running the application too.  
-This project is inspired by [Gifted chat](https://github.com/FaridSafi/react-native-gifted-chat).
+This project uses [Gifted chat](https://github.com/FaridSafi/react-native-gifted-chat).
 
 ## Requirements
-In order to run the sample you need to cover the following requiriments:  
+In order to run the app you would need to cover the following requirements:  
 
 - `npm` installed.
 - React Native minimum version `^0.45.1`.
@@ -12,14 +12,18 @@ In order to run the sample you need to cover the following requiriments:
 
 
 ## Installation
-Thsi project is preconfigured, if you want to create a project from scratch follow [these instructions](https://bitbucket.org/bridgefy/react-native-bridgefy-sdk). But anyway you will need to follow some steps in order to run the application.
 
 1. Clone this repository
+
+```bash
+git clone https://github.com/nimishbongale/Lost-And-Foundry-App.git 
+```
+
 2. Move to the root directory
 3. Install dependencies using `npm install`
-4. Open App.js and replace the string `YOUR_API_KEY_HERE` with your actual API Key.
+4. Open App.js and replace the string `YOUR_API_KEY_HERE` with your actual API Key. (You can get your own API Key at the bridgefy website)
 
-Before run the application take in account the following considerations/previous steps for every platform.
+Before running the application take in account the following considerations/previous steps for every platform.
 
 ## Android 
 [Bridgefy SDK](https://github.com/bridgefy/bridgefy-android-samples/blob/master/README.md) supports Android 5.0 (**API Level 21**) or higher and the following permission are required.
