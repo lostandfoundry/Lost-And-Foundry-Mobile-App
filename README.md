@@ -11,7 +11,7 @@ This project was inspired by [Gifted chat](https://github.com/FaridSafi/react-na
   <a href="https://snack.expo.io/@xcarpentier/gifted-chat" target="_blank"><i>demo</i></a>
 </p>
 
-Head Over to the GiftedChat repo and be sure to star it, 
+Head Over to the GiftedChat repo and be sure to star it.
 
 ## Requirements
 In order to run the app you would need to cover the following requirements:  
