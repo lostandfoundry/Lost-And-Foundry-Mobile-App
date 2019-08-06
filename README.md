@@ -5,11 +5,7 @@ This project was inspired by [Gifted chat](https://github.com/FaridSafi/react-na
 
 <div class="Smartphone-s165niw0-0 krsaKg" style="background:#141414"><video autoplay="" loop="" playsinline="" preload="none" muted="" poster="https://thumbs.gfycat.com/ThatSlimyBeardedcollie-poster.jpg" style="width:100%;height:100%;position:absolute;top:0;left:0;transform:none"><track kind="captions"><source src="https://giant.gfycat.com/ThatSlimyBeardedcollie.webm" type="video/webm"><source src="https://giant.gfycat.com/ThatSlimyBeardedcollie.mp4" type="video/mp4"></video></div><div class="Button__ButtonContainer-s1yo1pni-0 kZcYqm"><div class="Button-s1yo1pni-1 ewehdc" alt="Show detail"></div></div></div>
 
-<p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=exp://expo.io/@xcarpentier/gifted-chat">
-  <br>
-  <a href="https://snack.expo.io/@xcarpentier/gifted-chat" target="_blank"><i>demo</i></a>
-</p>
+![Demo](https://media.giphy.com/media/hriwWp7MSyTeJNPt6d/giphy.gif)
 
 Head Over to the GiftedChat repo and be sure to star it.
 
